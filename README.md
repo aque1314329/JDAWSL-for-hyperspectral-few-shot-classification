@@ -1,6 +1,12 @@
 # Joint Domain Adaptation with Weight Self-Learning for Hyperspectral Few-Shot Classification
 
-This is a code demo for the paper  "Joint Domain Adaptation with Weight Self-Learning for Hyperspectral Few-Shot Classification".
+This repo provides a Matlab implementation of paper “Joint Domain Adaptation with Weight Self-Learning for Hyperspectral Few-Shot Classification,” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS), DOI: 10.1109/JSTARS.2025.3601388.
+
+This code is ONLY released for academic use. Please do not further distribute the code (including the download link), or put any of the code on the public website.
+
+Please kindly cite our paper if you use our code in your research. Thanks and hope you will benefit from our code.
+
+@ARTICLE{11134056, author={Kong, Lingyu and Sun, Xudong and Zhang, Jiahua and Wang, Xiaopeng and Shang, Xiaodi}, journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, title={JDAWSL: Joint Domain Adaptation With Weight Self-Learning for Hyperspectral Few-Shot Classification}, year={2025}, volume={18}, number={}, pages={21476-21493}, keywords={Feature extraction;Hyperspectral imaging;Adaptation models;Data models;Training;Metalearning;Few shot learning;Data augmentation;Accuracy;Three-dimensional displays;Adaptive learner;cross-domain learning;few-shot classification;hyperspectral imagery;joint domain adaptation (DA)}, doi={10.1109/JSTARS.2025.3601388}}
 
 ## dataset
 
